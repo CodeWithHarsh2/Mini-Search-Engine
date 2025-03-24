@@ -1,4 +1,4 @@
-# Mini-Search-Engine
+# Mini Search Engine
 
 Imagine you have hundreds of text files in a folder, and you need to find a specific word or phrase inside them. Scrolling through each file manually would be a nightmare, right? 😵
 That’s where our Mini Search Engine comes in! It’s a C program that acts like a Google for your text files – it scans all .txt files in a given folder, finds your search keyword, and ranks the files based on relevance. 📂🔍
